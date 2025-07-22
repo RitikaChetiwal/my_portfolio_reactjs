@@ -225,18 +225,18 @@ export const myProjects = [
 
 export const mySocials = [
   {
-    name: "Mail",
-    href: "",
-    icon: "/assets/socials/whatsApp.svg",
-  },
-  {
     name: "Linkedin",
     href: "https://www.linkedin.com/in/ritika-chetiwal-6033a031b/",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
+    name: "Mail",
+    href: "https://mail.google.com/mail/u/0/#search/ritikachetiwal238%40gmail.com",
+    icon: "/assets/socials/icons8-email-52.png"
+  },
+  {
     name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
+    href: "https://www.instagram.com/ritika_chetiwal/",
     icon: "/assets/socials/instagram.svg",
   },
 ];
